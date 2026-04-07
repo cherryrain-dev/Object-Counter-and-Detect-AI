@@ -113,4 +113,4 @@ else:
 
 # --- 5. FOOTER ---
 st.divider()
-st.caption("This project was made for studying")
+st.caption("ระบบจะมีข้อจำกัดในเรื่องวัตถุขนาดเล็กและสภาพแสง สำหรับการใช้งานในระดับ Real-time Analytics บนอุปกรณ์ที่มีทรัพยากรจำกัด")
